@@ -18,6 +18,22 @@ A Node.js backend application built using Express.js and MongoDB.
 - Nodemailer
 - JWT
 
+
+## Backend-Ledger/
+│
+├── src/
+│   ├── controllers/
+│   ├── routes/
+│   ├── models/
+│   ├── middleware/
+│   ├── services/
+│   └── config/
+│
+├── .env
+├── package.json
+└── app.js
+```
+
 ## Installation
 
 ```bash
